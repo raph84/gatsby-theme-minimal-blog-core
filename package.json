@@ -1,0 +1,45 @@
+{
+  "name": "@raph84/gatsby-theme-minimal-blog-core",
+  "version": "2.3.10",
+  "description": "Core Theme for @lekoarts/gatsby-theme-minimal-blog. This theme implements the Post and Page node interfaces and exports templates (+ queries) which you can shadow.",
+  "license": "MIT",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "clean": "gatsby clean"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.17.10",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^1.6.16",
+    "@mdx-js/react": "^1.6.16",
+    "gatsby-plugin-mdx": "^1.2.34",
+    "gatsby-plugin-sharp": "^2.6.25",
+    "gatsby-plugin-typescript": "^2.4.17",
+    "gatsby-remark-images": "^3.3.25",
+    "gatsby-source-filesystem": "^2.3.24",
+    "gatsby-transformer-sharp": "^2.5.12",
+    "lodash.kebabcase": "^4.1.1"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-theme",
+    "gatsby-plugin"
+  ],
+  "bugs": {
+    "url": "https://github.com/raph84/gatsby-theme-minimal-blog-core/issues"
+  },
+  "homepage": "https://raphberube.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raph84/gatsby-theme-minimal-blog-core.git",
+  }
+}
