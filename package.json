@@ -40,6 +40,6 @@
   "homepage": "https://raphberube.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/raph84/gatsby-theme-minimal-blog-core.git",
+    "url": "https://github.com/raph84/gatsby-theme-minimal-blog-core.git"
   }
 }
